@@ -27,3 +27,11 @@ body{
     font-size: 20px;
     font-family:sans-serif;
 }
+#footer{
+    height:20px;
+    background-color: hotpink;
+}
+.alumni{
+    height: 250px;
+    width: 200px;
+}
